@@ -1,7 +1,7 @@
 ![logo](https://github.com/dhananjay937/dhananjay937/blob/main/Blue%20Futuristic%20Technology%20Linkedln%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Dhananjay</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://images.app.goo.gl/KMWT7ei7T2xFEqQH6](https://github.com/dhananjay937/dhananjay937/blob/main/giphy.gif)">
+<img align="right" alt="coding" width="400" src="[https://github.com/dhananjay937/dhananjay937/blob/main/giphy.gif]">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjay937&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjay937" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning**
