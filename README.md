@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Dhananjay</h1>
 <h3 align="center">A passionate Data Science Engineer from India</h3>
 
@@ -17,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dhananjay patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhananjay patil" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhananjay-patil-b25423315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhananjay-patil-b25423315" height="30" width="40" /></a>
 <a href="https://kaggle.com/dhananjaypatil13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhananjaypatil13" height="30" width="40" /></a>
 <a href="https://instagram.com/patil_dhananjay_1303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patil_dhananjay_1303" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@patildhananjay12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@patildhananjay12" height="30" width="40" /></a>
